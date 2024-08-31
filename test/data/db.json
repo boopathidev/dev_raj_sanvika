@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first Post",
+      "datetime": "August 9, 2024 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 result"
+    },
+    {
+      "id": 2,
+      "title": "My second Post",
+      "datetime": "August 9, 2024 11:17:36 AM",
+      "body": "Attended Defi blackchain evevt"
+    },
+    {
+      "id": 3,
+      "title": "My third Post",
+      "datetime": "August 9, 2024 11:17:36 AM",
+      "body": "project submit next week"
+    },
+    {
+      "id": 4,
+      "title": "My fourth Post",
+      "datetime": "August 9, 2024 11:17:36 AM",
+      "body": "Attended Music event"
+    },
+    {
+      "id": 5,
+      "title": "Hi",
+      "datetime": "August 28,2024 3:11:39 PM",
+      "body": "Subs\n"
+    },
+    {
+      "id": 6,
+      "title": "fd",
+      "datetime": "August 28,2024 3:16:49 PM",
+      "body": "dfmk"
+    }
+  ]
+}
