@@ -59,13 +59,13 @@ function App() {
  
  
 
-  useEffect(()=>{
+ /* useEffect(()=>{
     const filteredResults=posts.filter((post)=>
       ((post.body).toLowerCase()).includes(search.toLowerCase())
       ||((post.title).toLowerCase()).includes(search.toLowerCase()));
    
     setSearchResults(filteredResults.reverse()); 
-  },  [posts,search] )  
+  },  [posts,search] )  */
  
 
   const handleSubmit=async(e)=>{ e.preventDefault();
