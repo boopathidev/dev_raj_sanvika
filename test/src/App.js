@@ -28,10 +28,6 @@ function App() {
   const {width}=useWindowSize();
   //const {data,loading,error}=useAxiosFetch('http://localhost:3500/posts');
 
-/*   useEffect(()=>{
-    setPosts(data);
-  },[data])
- */
    useEffect(() => {
     const fetchPosts= async() => {
       try {
